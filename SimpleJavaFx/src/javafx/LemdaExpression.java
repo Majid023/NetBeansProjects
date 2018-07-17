@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 
-
+//remove the comment if you try it
+/*
 package javafx;
 
 import javafx.application.Application;
@@ -14,10 +15,15 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;
+*/
+
 /**
  *
  * @author DELL
  */
+
+//remove the comment if you try it
+/*
 public class LemdaExpression extends Application {
     
     
@@ -38,7 +44,7 @@ public class LemdaExpression extends Application {
             }
         });
         
-        exit_button.setOnAction(e->System.exit(0) );
+        exit_button.setOnAction(e->{System.out.println("exit bye..");System.exit(0);} );
         
         
         VBox root = new VBox();
@@ -54,6 +60,9 @@ public class LemdaExpression extends Application {
         
     }
 }
+
+*/
+
 
 
 
