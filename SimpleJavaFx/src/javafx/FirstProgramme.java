@@ -3,19 +3,24 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+//remove the comment and try it 
+/*
 package javafx;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.Scene;
-import javafx.stage.Stage;
 import javafx.scene.control.Button;
+import javafx.stage.Stage;
 import javafx.scene.layout.StackPane;
 
 /**
  *
- * @author DELL
+ * @author Majid Ansari
  */
+
+/*
 public class FirstProgramme extends Application {
     
    public static void main(String... args){
@@ -23,10 +28,11 @@ public class FirstProgramme extends Application {
    }
   
    @Override
-   public  void start(Stage stage){
+   public  void start(Stage stage) throws Exception{
        Button btn = new Button();
        btn.setText( "Hello World" );
        btn.setOnAction( new EventHandler<ActionEvent>(){
+         
            @Override
            public void handle(ActionEvent event) {
              System.out.println( "Hello World" );  //To change body of generated methods, choose Tools | Templates.
@@ -45,3 +51,8 @@ public class FirstProgramme extends Application {
        
    }
 }
+*/
+
+
+
+
