@@ -14,7 +14,7 @@
             <Font name="System Bold" size="45.0" />
          </font>
       </JFXButton>
-      <JFXButton layoutX="144.0" layoutY="191.0" onAction="#onclick1" prefHeight="75.0" prefWidth="309.0" style="-fx-background-color: blue;" textFill="WHITE">
+      <JFXButton layoutX="144.0" layoutY="191.0" onAction="#onClick1" prefHeight="75.0" prefWidth="309.0" style="-fx-background-color: blue;" textFill="WHITE">
          <font>
             <Font name="System Bold" size="43.0" />
          </font>
