@@ -18,7 +18,7 @@ import javafx.scene.control.Label;
 
 public class Controller {
     @FXML
-    private Label lbl;
+    private Label lbl,lbl1;
     
     @FXML
     public void onClick(ActionEvent event){
@@ -26,7 +26,13 @@ public class Controller {
         int number = rand.nextInt(50)+1;
         lbl.setText(String.valueOf(Integer.toString(number)));
     }
+    public void onClick1(ActionEvent event){
+        
+        lbl1.setText("Click me!");
+    }
 }
+
+
 
 
 
