@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import java.lang.*?>
-<?import java.util.*?>
-<?import javafx.scene.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1">
-    
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="eventHandle.Controller">
+   <children>
+      <Button layoutX="153.0" layoutY="213.0" mnemonicParsing="false" onAction="#onClick" prefHeight="31.0" prefWidth="294.0" text="Click me! " />
+      <Label fx:id="lbl" layoutX="153.0" layoutY="65.0" prefHeight="21.0" prefWidth="258.0" text="Random Number : " />
+   </children>
 </AnchorPane>
