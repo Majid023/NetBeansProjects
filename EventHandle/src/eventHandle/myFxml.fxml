@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.text.*?>
+<?import com.jfoenix.controls.*?>
 <?import java.lang.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-
-<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="eventHandle.Controller">
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="eventHandle.Controller">
    <children>
-      <Button layoutX="153.0" layoutY="213.0" mnemonicParsing="false" onAction="#onClick" prefHeight="31.0" prefWidth="294.0" text="Click me! " />
       <Label fx:id="lbl" layoutX="153.0" layoutY="65.0" prefHeight="21.0" prefWidth="258.0" text="Random Number : " />
+      <JFXButton layoutX="144.0" layoutY="288.0" onAction="#onClick" prefHeight="96.0" prefWidth="309.0" style="-fx-background-color: green; -fx-border-radius: 550px;" text="Click me!" textFill="#39ff1a">
+         <font>
+            <Font name="System Bold" size="45.0" />
+         </font>
+      </JFXButton>
    </children>
 </AnchorPane>
