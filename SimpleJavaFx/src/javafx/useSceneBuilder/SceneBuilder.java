@@ -21,6 +21,7 @@ public class SceneBuilder  extends Application{
     
     
     public static void main(String... args){
+        System.out.println("This is way to create javafx application using scene bulder");
         launch(args);
     }
 
