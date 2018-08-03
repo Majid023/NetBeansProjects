@@ -5,11 +5,11 @@
  */
 package javafx.useSceneBuilder;
 
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
+//import javafx.application.Application;
+//import javafx.fxml.FXMLLoader;
+//import javafx.scene.Parent;
+//import javafx.scene.Scene;
+//import javafx.stage.Stage;
 
 /**
  *
@@ -17,7 +17,7 @@ import javafx.stage.Stage;
  */
 
 // scene builder use for easy to build gui application and fast also.
-public class SceneBuilder  extends Application{
+/*public class SceneBuilder  extends Application{
     
     
     public static void main(String... args){
@@ -38,7 +38,7 @@ public class SceneBuilder  extends Application{
 }
 
 
-
+*/
 
 
 
