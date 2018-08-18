@@ -2,6 +2,14 @@
  * Empty Stylesheet file.
  */
 
-.mainFxmlClass {
 
-}
+#btn1:hover{
+        -fx-background-color: red;
+        -fx-border-radius: 5px;
+        
+    }
+/*   
+#label1{
+        -fx-fill: red;
+    }
+    */

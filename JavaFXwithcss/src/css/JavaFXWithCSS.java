@@ -26,6 +26,7 @@ public class JavaFXWithCSS extends Application {
         
         Parent root = FXMLLoader.load(getClass().getResource("MainFXML.fxml"));
         Scene scene = new Scene(root);
+        scene.getStylesheets().add(getClass().getResource("mainfxml.css").toExternalForm());
         primaryStage.setScene(scene);
         primaryStage.setTitle("CSS");
         

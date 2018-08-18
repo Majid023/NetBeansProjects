@@ -7,8 +7,13 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane id="AnchorePane" prefHeight="500.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" fx:controller="css.MainFXMLController">
+<AnchorPane id="AnchorePane" prefHeight="500.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="css.MainFXMLController">
     <stylesheets>
-        <URL value="@mainfxml.css"/>
+        <URL value="@mainfxml.css" />
+       
     </stylesheets>
+   <children>
+       <Button id="btn1" layoutX="116.0" layoutY="222.2" prefHeight="140" prefWidth="120">Click me!</Button>
+       <Label id="label1" layoutX="12.1" layoutY="2" prefHeight="200" prefWidth="220">Hii.. Majid</Label>
+   </children>
 </AnchorPane>
