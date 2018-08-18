@@ -8,8 +8,9 @@
         -fx-border-radius: 5px;
         
     }
-/*   
+   
 #label1{
-        -fx-fill: red;
+        -fx-font-size: 40px;
+        -fx-text-fill: blue;
     }
-    */
+    
