@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.svg.*?>
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="905.0" prefWidth="1111.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane blendMode="MULTIPLY" mouseTransparent="true" prefHeight="905.0" prefWidth="1111.0" style="-fx-background-color: white;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <rotationAxis>
+            <Point3D />
+         </rotationAxis>
+         <effect>
+            <InnerShadow choke="0.32" height="24.11" radius="12.3325" width="27.22" />
+         </effect>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <children>
+            <AnchorPane layoutX="12.0" layoutY="15.0" prefHeight="322.0" prefWidth="395.0" style="-fx-background-color: red; -fx-background-radius: 20;">
+               <children>
+                  <AnchorPane layoutX="48.0" layoutY="10.0" prefHeight="302.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 1000;">
+                     <effect>
+                        <InnerShadow />
+                     </effect>
+                     <children>
+                        <AnchorPane layoutX="14.0" layoutY="114.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#ff0303" height="12.44" radius="6.4975000000000005" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="206.0" layoutY="114.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#ff0303" height="12.44" radius="6.4975000000000005" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="110.0" layoutY="14.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#ff0303" height="12.44" radius="6.4975000000000005" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="110.0" layoutY="214.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#ff0303" height="12.44" radius="6.4975000000000005" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="708.0" layoutY="14.0" prefHeight="322.0" prefWidth="395.0" style="-fx-background-color: rgb(0,255,0); -fx-background-radius: 20;">
+               <children>
+                  <AnchorPane layoutX="48.0" layoutY="13.0" prefHeight="296.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 1000;">
+                     <effect>
+                        <InnerShadow />
+                     </effect>
+                     <children>
+                        <AnchorPane layoutX="110.0" layoutY="208.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="0.91" color="#24ff07" height="17.1" radius="9.215" width="21.76" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="206.0" layoutY="111.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="0.91" color="#24ff07" height="17.1" radius="9.215" width="21.76" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="14.0" layoutY="111.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="0.91" color="#24ff07" height="17.1" radius="9.215" width="21.76" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="110.0" layoutY="14.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="0.91" color="#24ff07" height="17.1" radius="9.215" width="21.76" />
+                           </effect>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="14.0" layoutY="569.0" prefHeight="322.0" prefWidth="395.0" style="-fx-background-color: rgb(0,0,255); -fx-background-radius: 20;">
+               <children>
+                  <AnchorPane layoutX="48.0" layoutY="10.0" prefHeight="302.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 1000;">
+                     <effect>
+                        <InnerShadow />
+                     </effect>
+                     <children>
+                        <AnchorPane layoutX="110.0" layoutY="14.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#1f02dd" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="14.0" layoutY="114.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#1f02dd" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="110.0" layoutY="214.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#1f02dd" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="206.0" layoutY="114.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#1f02dd" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="708.0" layoutY="569.0" prefHeight="322.0" prefWidth="395.0" style="-fx-background-color: yellow; -fx-background-radius: 20;">
+               <children>
+                  <AnchorPane layoutX="48.0" layoutY="10.0" prefHeight="302.0" prefWidth="300.0" style="-fx-background-color: white; -fx-background-radius: 1000;">
+                     <effect>
+                        <InnerShadow />
+                     </effect>
+                     <children>
+                        <AnchorPane layoutX="14.0" layoutY="114.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#eed111" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="206.0" layoutY="114.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#eed111" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="110.0" layoutY="14.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#eed111" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                        <AnchorPane layoutX="110.0" layoutY="214.0" prefHeight="74.0" prefWidth="80.0" style="-fx-background-color: black; -fx-background-radius: 1000;">
+                           <effect>
+                              <InnerShadow choke="1.0" color="#eed111" height="15.55" radius="7.275" width="15.55" />
+                           </effect>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="397.0" layoutY="325.0" prefHeight="255.0" prefWidth="324.0" style="-fx-background-color: gray; -fx-background-radius: 20;">
+               <effect>
+                  <InnerShadow />
+               </effect>
+               <children>
+                  <ImageView fitHeight="240.0" fitWidth="306.0" layoutX="8.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../Desktop/game.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+            <Label layoutX="2.0" layoutY="412.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="2.0" layoutY="497.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="721.0" layoutY="410.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="721.0" layoutY="499.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="271.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="216.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="412.0" layoutY="162.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="109.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="57.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="841.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="791.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="737.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="686.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="409.0" layoutY="634.0" prefHeight="4.0" prefWidth="300.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="500.0" layoutY="580.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="603.0" layoutY="580.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="497.0" layoutY="3.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="609.0" layoutY="3.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="337.0" layoutY="334.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="71.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="143.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="209.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="271.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="980.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="918.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="852.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="780.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="1038.0" layoutY="336.0" prefHeight="234.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="717.0" layoutY="336.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="717.0" layoutY="567.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="2.0" layoutY="566.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="2.0" layoutY="335.0" prefHeight="4.0" prefWidth="395.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="406.0" layoutY="580.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="702.0" layoutY="580.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="409.0" layoutY="5.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="702.0" layoutY="3.0" prefHeight="322.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="77.0" layoutY="339.0" prefHeight="74.0" prefWidth="66.0" style="-fx-background-color: red;" />
+            <Label layoutX="149.0" layoutY="500.0" prefHeight="68.0" prefWidth="60.0" style="-fx-background-color: red;" />
+            <Label layoutX="924.0" layoutY="340.0" prefHeight="72.0" prefWidth="59.0" style="-fx-background-color: yellow;" />
+            <Label layoutX="986.0" layoutY="502.0" prefHeight="65.0" prefWidth="52.0" style="-fx-background-color: yellow;" />
+            <Label layoutX="615.0" layoutY="59.0" prefHeight="50.0" prefWidth="88.0" style="-fx-background-color: green;" />
+            <Label layoutX="412.0" layoutY="113.0" prefHeight="50.0" prefWidth="88.0" style="-fx-background-color: green;" />
+            <Label layoutX="412.0" layoutY="795.0" prefHeight="47.0" prefWidth="88.0" style="-fx-background-color: blue;" />
+            <Label layoutX="609.0" layoutY="741.0" prefHeight="50.0" prefWidth="94.0" style="-fx-background-color: blue;" />
+            <AnchorPane layoutX="91.0" layoutY="356.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <AnchorPane layoutX="160.0" layoutY="514.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <AnchorPane layoutX="437.0" layoutY="798.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <AnchorPane layoutX="640.0" layoutY="746.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <AnchorPane layoutX="993.0" layoutY="514.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <AnchorPane layoutX="935.0" layoutY="356.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <AnchorPane layoutX="637.0" layoutY="64.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <AnchorPane layoutX="437.0" layoutY="118.0" prefHeight="41.0" prefWidth="38.0" style="-fx-background-color: black; -fx-background-radius: 1000;" />
+            <Label layoutX="556.0" layoutY="71.0" prefHeight="135.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="550.0" layoutY="699.0" prefHeight="135.0" prefWidth="6.0" style="-fx-background-color: black;" />
+            <Label layoutX="91.0" layoutY="451.0" prefHeight="4.0" prefWidth="171.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="871.0" layoutY="449.0" prefHeight="4.0" prefWidth="158.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="565.0" layoutY="175.0" prefHeight="35.0" prefWidth="6.0" rotate="30.0" style="-fx-background-color: black;" />
+            <Label layoutX="547.0" layoutY="175.0" prefHeight="35.0" prefWidth="6.0" rotate="-30.0" style="-fx-background-color: black;" />
+            <Label layoutX="539.0" layoutY="698.0" prefHeight="35.0" prefWidth="6.0" rotate="30.0" style="-fx-background-color: black;" />
+            <Label layoutX="559.0" layoutY="698.0" prefHeight="35.0" prefWidth="6.0" rotate="-30.0" style="-fx-background-color: black;" />
+            <Label layoutX="226.0" layoutY="440.0" prefHeight="4.0" prefWidth="38.0" rotate="30.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="226.0" layoutY="462.0" prefHeight="4.0" prefWidth="38.0" rotate="-30.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="871.0" layoutY="440.0" prefHeight="4.0" prefWidth="38.0" rotate="-30.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+            <Label layoutX="870.0" layoutY="460.0" prefHeight="4.0" prefWidth="38.0" rotate="30.0" style="-fx-background-color: black;">
+               <font>
+                  <Font size="1.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

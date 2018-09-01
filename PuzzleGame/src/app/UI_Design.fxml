@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="357.0" prefWidth="371.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.MainController">
+   <children>
+      <AnchorPane layoutY="7.0" prefHeight="347.0" prefWidth="399.0" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Button fx:id="btn1" layoutX="11.0" layoutY="17.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="119.0" text="1">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font></Button>
+            <Button fx:id="btn2" layoutX="147.0" layoutY="17.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="119.0" text="2">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn3" layoutX="280.0" layoutY="17.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="119.0" text="3">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn4" layoutX="11.0" layoutY="131.0" mnemonicParsing="false" prefHeight="101.0" prefWidth="119.0" text="4">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn5" layoutX="147.0" layoutY="131.0" mnemonicParsing="false" prefHeight="101.0" prefWidth="119.0" text="5">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn6" layoutX="280.0" layoutY="131.0" mnemonicParsing="false" prefHeight="101.0" prefWidth="119.0" text="6">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn7" layoutX="11.0" layoutY="246.0" mnemonicParsing="false" prefHeight="101.0" prefWidth="119.0" text="7">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font>
+            </Button>
+            <Button fx:id="btn8" layoutX="147.0" layoutY="246.0" mnemonicParsing="false" prefHeight="101.0" prefWidth="119.0" text="8">
+               <font>
+                  <Font name="System Bold" size="47.0" />
+               </font>
+            </Button>
+            <Label fx:id="blankField" layoutX="279.0" layoutY="246.0" prefHeight="101.0" prefWidth="119.0" style="-fx-background-color: gray;" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
