@@ -9,7 +9,7 @@
 
 <AnchorPane id="AnchorPane" prefHeight="357.0" prefWidth="371.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.MainController">
    <children>
-      <AnchorPane layoutY="7.0" prefHeight="347.0" prefWidth="399.0" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="0.0">
+      <AnchorPane layoutY="7.0" prefHeight="347.0" prefWidth="399.0" style="-fx-background-color: gray;" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="0.0">
          <children>
             <Button fx:id="btn1" layoutX="11.0" layoutY="17.0" mnemonicParsing="false" prefHeight="100.0" prefWidth="119.0" text="1">
                <font>
